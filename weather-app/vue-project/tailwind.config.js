@@ -6,7 +6,7 @@ module.exports = {
     extend: {
       colors: {
         "weather-primary": "#0abde3",
-        "weather-secondary": "#004E71",
+        "weather-secondary": "#feca57",
       },
       fontFamily: {
         Roboto: ["Roboto, sans-serif"],
